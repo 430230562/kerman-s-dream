@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"奇怪的钥匙,不能打开有锁的门,却可以打开没锁的门","etypeId":2,"traits":[],"iconIndex":195,"name":"奇怪的钥匙","note":"","params":[-50,0,30,0,30,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
