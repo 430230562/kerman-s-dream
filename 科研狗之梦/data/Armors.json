@@ -3,6 +3,6 @@ null,
 {"id":1,"atypeId":0,"description":"奇怪的钥匙,不能打开有锁的门,却可以打开没锁的门","etypeId":2,"traits":[],"iconIndex":195,"name":"奇怪的钥匙","note":"","params":[-50,0,30,-10,30,-10,0,0],"price":0},
 {"id":2,"atypeId":0,"description":"一块不会融化的冰,其中时不时反射着某人惨死的景象,\n这使你更加警醒.","etypeId":2,"traits":[],"iconIndex":302,"name":"不化坚冰","note":"","params":[0,0,0,0,0,30,0,0],"price":0},
 {"id":3,"atypeId":0,"description":"一盏奇怪的高压钠灯,生产商和生产日期已模糊不清,\n发出的光可以驱散一切黑暗.","etypeId":2,"traits":[],"iconIndex":212,"name":"骄阳之灯","note":"","params":[0,0,0,0,30,0,0,0],"price":0},
-{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[],"iconIndex":206,"name":"不休乐曲","note":"","params":[50,0,0,20,0,0,0,0],"price":0},
-{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[],"iconIndex":146,"name":"高热护符","note":"","params":[0,0,30,0,0,0,0,0],"price":0}
+{"id":4,"atypeId":0,"description":"一个来源不明的八音盒,不息地播放着鼓振的音乐.","etypeId":2,"traits":[],"iconIndex":206,"name":"不休乐曲","note":"","params":[50,0,0,20,0,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"一块用银线穿起的金黄色宝石\n戴在身上能感受到其散发的热力","etypeId":2,"traits":[],"iconIndex":146,"name":"高热护符","note":"","params":[0,0,30,0,0,0,0,0],"price":0}
 ]
