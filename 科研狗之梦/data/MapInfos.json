@@ -1,9 +1,9 @@
 [
 null,
 {"id":1,"expanded":false,"name":"开场","order":1,"parentId":0,"scrollX":819,"scrollY":438.5},
-{"id":2,"expanded":true,"name":"002猫猫","order":31,"parentId":3,"scrollX":819,"scrollY":438.5},
-{"id":3,"expanded":true,"name":"二楼走廊","order":30,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"04莉莉艾","order":42,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"002猫猫","order":31,"parentId":3,"scrollX":819,"scrollY":438.5},
+{"id":3,"expanded":true,"name":"二楼走廊","order":30,"parentId":0,"scrollX":819,"scrollY":438.5},
+{"id":4,"expanded":false,"name":"04莉莉艾","order":42,"parentId":3,"scrollX":819,"scrollY":438.5},
 {"id":5,"expanded":false,"name":"MAP005","order":44,"parentId":0,"scrollX":819,"scrollY":438.5},
 {"id":6,"expanded":false,"name":"阁楼","order":43,"parentId":0,"scrollX":819,"scrollY":438.5},
 {"id":7,"expanded":false,"name":"MAP007","order":2,"parentId":0,"scrollX":819,"scrollY":438.5},
