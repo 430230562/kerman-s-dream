@@ -1,12 +1,4116 @@
 {
-"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"溶解声","pan":0,"pitch":100,"volume":100},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":26,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"!pussy2xiao","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":5,"width":5,
-"data":[3200,3200,3200,3200,3200,3200,3200,3200,3200,3200,3228,3228,3228,3228,3228,2836,2836,2836,2836,2836,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"to womb","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":2,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["你尝试突破子宫口"]},{"code":122,"indent":0,"parameters":[10,10,0,2,0,100]},{"code":122,"indent":0,"parameters":[9,9,0,0,20]},{"code":122,"indent":0,"parameters":[9,9,1,3,3,1,6]},{"code":122,"indent":0,"parameters":[9,9,1,1,1]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["力量鉴定: \\V[010]/\\V[009]"]},{"code":111,"indent":0,"parameters":[1,10,1,9,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["成功"]},{"code":201,"indent":1,"parameters":[0,41,14,12,0,0]},{"code":121,"indent":1,"parameters":[2,2,0]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":231,"indent":1,"parameters":[3,"8fb0e8deb4c6e8e7d8b7259bf7f22e66",0,0,0,0,110,110,255,0]},{"code":230,"indent":1,"parameters":[180]},{"code":235,"indent":1,"parameters":[3]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["失败"]},{"code":122,"indent":1,"parameters":[11,11,0,0,20]},{"code":122,"indent":1,"parameters":[11,11,2,3,3,1,9]},{"code":225,"indent":1,"parameters":[5,5,120,false]},{"code":111,"indent":1,"parameters":[1,11,0,0,3]},{"code":311,"indent":2,"parameters":[0,0,1,1,11,true]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":224,"indent":1,"parameters":[[222,63,124,187],120,false]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-128,100,100,255,0,20,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-128,100,100,255,0,20,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-64,100,100,255,0,10,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-196,100,100,255,0,10,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-196,100,100,255,0,20,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-64,100,100,255,0,20,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-128,100,100,255,0,10,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-128,100,100,255,0,10,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,456,-128,100,100,255,0,40,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-312,-128,100,100,255,0,40,true]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["提示: 刺激一下,让这里更兴奋会更容易进入"]},{"code":122,"indent":1,"parameters":[1,1,2,0,10]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":3},
-{"id":2,"name":"刺激","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":2,"characterIndex":6},"list":[{"code":122,"indent":0,"parameters":[11,11,0,0,20]},{"code":122,"indent":0,"parameters":[11,11,2,3,3,1,9]},{"code":225,"indent":0,"parameters":[5,5,120,false]},{"code":111,"indent":0,"parameters":[1,11,0,0,3]},{"code":311,"indent":1,"parameters":[0,0,1,1,11,true]},{"code":224,"indent":1,"parameters":[[222,63,124,187],120,false]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":232,"indent":0,"parameters":[1,0,0,0,408,-128,100,100,255,0,20,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,-264,-128,100,100,255,0,20,true]},{"code":232,"indent":0,"parameters":[1,0,0,0,408,-64,100,100,255,0,10,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,-264,-196,100,100,255,0,10,true]},{"code":232,"indent":0,"parameters":[1,0,0,0,408,-196,100,100,255,0,20,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,-264,-64,100,100,255,0,20,true]},{"code":232,"indent":0,"parameters":[1,0,0,0,408,-128,100,100,255,0,10,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,-264,-128,100,100,255,0,10,true]},{"code":232,"indent":0,"parameters":[1,0,0,0,456,-128,100,100,255,0,40,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,-312,-128,100,100,255,0,40,true]},{"code":122,"indent":0,"parameters":[1,1,1,0,15]},{"code":122,"indent":0,"parameters":[2,2,0,2,1,3]},{"code":122,"indent":0,"parameters":[3,3,0,2,6,22]},{"code":203,"indent":0,"parameters":[0,1,2,3,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":2,"y":9},
-{"id":3,"name":"out","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":2,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":111,"indent":0,"parameters":[0,2,0]},{"code":111,"indent":1,"parameters":[0,3,0]},{"code":118,"indent":2,"parameters":["成功"]},{"code":201,"indent":2,"parameters":[0,42,11,5,0,0]},{"code":122,"indent":2,"parameters":[1,1,0,0,0]},{"code":121,"indent":2,"parameters":[2,2,1]},{"code":235,"indent":2,"parameters":[1]},{"code":235,"indent":2,"parameters":[2]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":122,"indent":2,"parameters":[10,10,0,2,0,100]},{"code":122,"indent":2,"parameters":[9,9,0,1,12]},{"code":122,"indent":2,"parameters":[9,9,1,0,25]},{"code":122,"indent":2,"parameters":[10,10,1,3,3,1,9]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["意志力鉴定:\\V[10]/\\V[9]"]},{"code":111,"indent":2,"parameters":[1,10,1,9,2]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["成功"]},{"code":119,"indent":3,"parameters":["成功"]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":122,"indent":3,"parameters":[9,9,1,0,30]},{"code":111,"indent":3,"parameters":[1,10,1,9,3]},{"code":101,"indent":4,"parameters":["",0,0,2]},{"code":401,"indent":4,"parameters":["大失败"]},{"code":205,"indent":4,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":4,"parameters":[{"code":4,"indent":null}]},{"code":224,"indent":4,"parameters":[[222,63,124,187],120,false]},{"code":122,"indent":4,"parameters":[12,12,2,0,7]},{"code":101,"indent":4,"parameters":["Actor1",0,0,2]},{"code":401,"indent":4,"parameters":["不会...出不去了吧"]},{"code":0,"indent":4,"parameters":[]},{"code":411,"indent":3,"parameters":[]},{"code":101,"indent":4,"parameters":["",0,0,2]},{"code":401,"indent":4,"parameters":["失败"]},{"code":205,"indent":4,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":4,"parameters":[{"code":4,"indent":null}]},{"code":224,"indent":4,"parameters":[[222,63,124,187],90,false]},{"code":122,"indent":4,"parameters":[12,12,2,0,4]},{"code":0,"indent":4,"parameters":[]},{"code":412,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[1,14,0,3,2]},{"code":101,"indent":2,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":2,"parameters":["再陪我玩一下嘛"]},{"code":205,"indent":2,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":2,"parameters":[{"code":4,"indent":null}]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":2,"y":25},
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":0,"parameters":["其实很简单的喵"]},{"code":101,"indent":0,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":0,"parameters":["只要进入背包,选中科研工具"]},{"code":401,"indent":0,"parameters":["(比如你手上的纸和笔)使用就可以了"]},{"code":123,"indent":0,"parameters":["A",0]},{"code":111,"indent":0,"parameters":[8,2]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["你是说你已经采集了一份外界的环境报告是吗?"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["没想到你对科研这么热忱,我果然没有看错你喵."]},{"code":401,"indent":1,"parameters":["(你这小可爱,手怎么这么贱呢)"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["虽然外界环境数据同样重要,"]},{"code":401,"indent":1,"parameters":["但是我已经亲自搜集过他们了."]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["让我们重置设备,再来一次好吗"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["所以就不需要麻烦你再收集一遍了."]},{"code":201,"indent":1,"parameters":[0,2,13,4,0,0]},{"code":322,"indent":1,"parameters":[1,"缩小",0,"Actor1",0,"Actor1_1"]},{"code":126,"indent":1,"parameters":[1,0,0,1]},{"code":126,"indent":1,"parameters":[2,1,0,1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":true,"variableId":8,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":111,"indent":0,"parameters":[1,8,0,0,3]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["不错嘛喵,不过进来了就多陪我玩会吧喵"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["对了,不同环境下科研的产出是不同的,"]},{"code":401,"indent":1,"parameters":["所以多多探索吧喵"]},{"code":230,"indent":1,"parameters":[60]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["差点忘了,原始的数据是不能直接变成科研点的喵"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["而且使用过的科研工具就不能再用了喵"]},{"code":101,"indent":1,"parameters":["99276586_p0_master1200",0,0,2]},{"code":401,"indent":1,"parameters":["所以出来之后记得找我提交数据和重置设备喵"]},{"code":121,"indent":1,"parameters":[1,1,1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[10]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":4,"y":0},
-{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[600]},{"code":224,"indent":0,"parameters":[[222,63,124,187],120,false]},{"code":111,"indent":0,"parameters":[1,14,0,3,4]},{"code":122,"indent":1,"parameters":[11,11,0,0,15]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":122,"indent":1,"parameters":[11,11,0,0,20]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[11,11,2,3,3,1,9]},{"code":111,"indent":0,"parameters":[1,11,0,0,3]},{"code":122,"indent":1,"parameters":[12,12,2,1,11]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["角色差分"]},{"code":111,"indent":0,"parameters":[1,12,0,80,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[0,3,0]},{"code":121,"indent":2,"parameters":[3,3,1]},{"code":101,"indent":2,"parameters":["",0,1,2]},{"code":401,"indent":2,"parameters":["当你继续往内探索时,空气中弥漫着一股独特的味道;"]},{"code":401,"indent":2,"parameters":["那是独属于猫猫的混合了雌性荷尔蒙和猫薄荷的淡淡咸腥气息，"]},{"code":401,"indent":2,"parameters":["带着些许甜腻和潮湿感。"]},{"code":101,"indent":2,"parameters":["",0,1,2]},{"code":401,"indent":2,"parameters":["这种气味随着你越深入，如同美酒一般而越发浓郁"]},{"code":401,"indent":2,"parameters":["几乎要充盈你的整个鼻腔。"]},{"code":101,"indent":2,"parameters":["",0,1,2]},{"code":401,"indent":2,"parameters":["这种味道刺激着你的嗅觉神经，让你的身体不由自主地产生了"]},{"code":401,"indent":2,"parameters":["某些反应;你能感受到自己的心跳加速，血液流动加快，"]},{"code":401,"indent":2,"parameters":["下体不由的抖动起来。"]},{"code":101,"indent":2,"parameters":["",0,1,2]},{"code":401,"indent":2,"parameters":["四周温暖湿润的环境加剧了这种感觉，"]},{"code":401,"indent":2,"parameters":["你的呼吸变得急促了一些。"]},{"code":101,"indent":2,"parameters":["",0,1,2]},{"code":401,"indent":2,"parameters":["体内的温度比外界稍高，这种暖意让人感到舒适却又略显燥热。"]},{"code":401,"indent":2,"parameters":["每一寸黏膜都在如同史莱姆一样轻轻蠕动，"]},{"code":401,"indent":2,"parameters":["带来若有若无的压迫感和涩涩感。"]},{"code":101,"indent":2,"parameters":["Actor1",0,0,2]},{"code":401,"indent":2,"parameters":["呜呜，这就是猫猫下体的.....味道吗，好舒服❤️"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,12,0,60,1]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[0,4,0]},{"code":121,"indent":3,"parameters":[4,4,1]},{"code":101,"indent":3,"parameters":["",0,1,2]},{"code":401,"indent":3,"parameters":["随着你在猫猫的胎内待的时间更长，那种特殊的荷尔蒙气味"]},{"code":401,"indent":3,"parameters":["变得愈发浓郁。你能感觉到自己的意识开始变得模糊，"]},{"code":401,"indent":3,"parameters":["心跳加快，呼吸急促。"]},{"code":101,"indent":3,"parameters":["",0,1,2]},{"code":401,"indent":3,"parameters":["周围的肉壁不断蠕动收缩,每一次变化都带来一种奇特的压力感。"]},{"code":401,"indent":3,"parameters":["那种温暖潮湿的环境让你开始产生某种异样的兴奋感。"]},{"code":401,"indent":3,"parameters":["理智告诉你应该保持冷静寻找线索，但感官的刺激却让你"]},{"code":401,"indent":3,"parameters":["难以集中精力。你的下体已经直立，"]},{"code":101,"indent":3,"parameters":["",0,1,2]},{"code":401,"indent":3,"parameters":["仿佛就要马上射在猫猫的肉壁上"]},{"code":401,"indent":3,"parameters":["在这种状态下，猫猫体内每一个细微的变化都能引发强烈的感觉。"]},{"code":401,"indent":3,"parameters":["那种特殊的气息、温热的压力、湿润的空气，"]},{"code":401,"indent":3,"parameters":["都在不断冲击着你的神经。"]},{"code":101,"indent":3,"parameters":["Actor1",0,0,2]},{"code":401,"indent":3,"parameters":["好舒服❤️，猫猫身体里的气味，真的舒服呢❤️"]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":111,"indent":2,"parameters":[1,12,0,40,1]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":111,"indent":3,"parameters":[0,5,0]},{"code":121,"indent":4,"parameters":[5,5,1]},{"code":101,"indent":4,"parameters":["",0,1,2]},{"code":401,"indent":4,"parameters":["现在，你的意识已经模糊,在这种状态下，"]},{"code":401,"indent":4,"parameters":["猫猫体内的每一个细微变化都放大了数倍。"]},{"code":401,"indent":4,"parameters":["那种特殊的荷尔蒙气息充斥着你的感官，"]},{"code":401,"indent":4,"parameters":["让思绪变得混沌。"]},{"code":101,"indent":4,"parameters":["",0,1,2]},{"code":401,"indent":4,"parameters":["周围的温热潮湿环境使得你全身发热，"]},{"code":401,"indent":4,"parameters":["意识开始飘忽。"]},{"code":401,"indent":4,"parameters":["感官刺激变得异常敏锐，"]},{"code":401,"indent":4,"parameters":["每一次呼吸、每一丝空气流动都带来强烈的色欲。"]},{"code":101,"indent":4,"parameters":["",0,1,2]},{"code":401,"indent":4,"parameters":["你能感觉到自己的心跳不受控制地加速，"]},{"code":401,"indent":4,"parameters":["血液涌向大脑带来的眩晕感。"]},{"code":401,"indent":4,"parameters":["理性思考的能力大幅下降，"]},{"code":101,"indent":4,"parameters":["",0,1,2]},{"code":401,"indent":4,"parameters":["取而代之的是对猫猫的强烈欲望。。"]},{"code":401,"indent":4,"parameters":["在这种状态下，猫猫体内温暖清凉而又充满猫薄荷的"]},{"code":401,"indent":4,"parameters":["环境给你一种奇特的安全感。"]},{"code":401,"indent":4,"parameters":["那种被柔软肉壁包裹的感觉让你不自觉地放松警惕，"]},{"code":101,"indent":4,"parameters":["",0,1,2]},{"code":401,"indent":4,"parameters":["恨不得永远被包裹，永远留在其中。"]},{"code":0,"indent":4,"parameters":[]},{"code":412,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[1,12,0,0,2]},{"code":223,"indent":1,"parameters":[[-255,-255,-255,0],60,true]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["你的两眼已经模糊，"]},{"code":401,"indent":1,"parameters":["理智早就不存在，"]},{"code":401,"indent":1,"parameters":["你的所有行为都由本能驱动。"]},{"code":401,"indent":1,"parameters":[""]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["猫猫体内的每一个感官刺激都被放大到极致。"]},{"code":401,"indent":1,"parameters":["那种浓厚的荷尔蒙气息已经完全占据了你的思维，"]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":["让你无法思考其他事情。"]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["皮肤对温度和湿度的感知达到峰值，"]},{"code":401,"indent":1,"parameters":["你的下体早就射满了液体，"]},{"code":401,"indent":1,"parameters":["恨不得直接成为猫猫的性奴❤️"]},{"code":401,"indent":1,"parameters":["性奴❤️"]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["周围的肉壁每一次蠕动都带来强烈的快感电流，"]},{"code":401,"indent":1,"parameters":["使你不由自主地想要更深地探索。"]},{"code":401,"indent":1,"parameters":["你失去了判断力，"]},{"code":401,"indent":1,"parameters":["只剩下最基本的生理需求。"]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["你恨不得永远待在这里，"]},{"code":401,"indent":1,"parameters":["永远"]},{"code":401,"indent":1,"parameters":["永...远..."]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["在这种完全失去自我控制的状态下，"]},{"code":401,"indent":1,"parameters":["你会彻底沉溺于当下的感官体验中。"]},{"code":401,"indent":1,"parameters":["所有的顾虑、危险感知都被抛诸脑后，"]},{"code":401,"indent":1,"parameters":["只剩下原始的冲动。"]},{"code":101,"indent":1,"parameters":["Actor1",0,0,2]},{"code":401,"indent":1,"parameters":["❤️❤️❤️，想要..."]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":[""]},{"code":225,"indent":1,"parameters":[3,7,30,false]},{"code":224,"indent":1,"parameters":[[255,255,255,170],30,true]},{"code":225,"indent":1,"parameters":[3,7,30,false]},{"code":224,"indent":1,"parameters":[[255,255,255,170],30,true]},{"code":101,"indent":1,"parameters":["Actor1",0,0,2]},{"code":401,"indent":1,"parameters":["想要永远..."]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":[""]},{"code":401,"indent":1,"parameters":[""]},{"code":225,"indent":1,"parameters":[3,7,30,false]},{"code":224,"indent":1,"parameters":[[255,255,255,170],30,true]},{"code":101,"indent":1,"parameters":["Actor1",0,0,2]},{"code":401,"indent":1,"parameters":["永远与猫猫做爱...."]},{"code":101,"indent":1,"parameters":["雫ちゃん！1",0,0,2]},{"code":401,"indent":1,"parameters":["（偷笑）真是杂鱼呢，那么，"]},{"code":401,"indent":1,"parameters":["就让你永远呆在这里吧，我的小宝宝❤️。"]},{"code":401,"indent":1,"parameters":["（抚摸肚子）"]},{"code":121,"indent":1,"parameters":[6,6,0]},{"code":223,"indent":1,"parameters":[[0,0,0,0],60,true]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["最终,你还是来到了这个地方..."]},{"code":401,"indent":1,"parameters":["这是你生命终结的地方"]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["或许也是新开始的地方"]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":201,"indent":1,"parameters":[0,41,20,2,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":3,"y":0}
-]
+    "autoplayBgm": true,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "溶解声",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 26,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "阴道",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 5,
+    "width": 5,
+    "data": [
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3228,
+        3228,
+        3228,
+        3228,
+        3228,
+        2836,
+        2836,
+        2836,
+        2836,
+        2836,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "to womb",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 4
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 2,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "你尝试突破子宫口"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                10,
+                                10,
+                                0,
+                                2,
+                                0,
+                                100
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                9,
+                                9,
+                                0,
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                3,
+                                3,
+                                1,
+                                6
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "力量鉴定: \\V[010]/\\V[009]"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                41,
+                                14,
+                                12,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 1,
+                            "parameters": [
+                                3,
+                                "8fb0e8deb4c6e8e7d8b7259bf7f22e66",
+                                0,
+                                0,
+                                0,
+                                0,
+                                110,
+                                110,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 1,
+                            "parameters": [
+                                180
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "失败"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 1,
+                            "parameters": [
+                                5,
+                                5,
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                11,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 311,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                0,
+                                1,
+                                1,
+                                11,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                456,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -312,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "提示: 刺激一下,让这里更兴奋会更容易进入"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                1,
+                                2,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 3
+        },
+        {
+            "id": 2,
+            "name": "刺激",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 2,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 0,
+                            "parameters": [
+                                5,
+                                5,
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                11,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 311,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                0,
+                                1,
+                                1,
+                                11,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                456,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -312,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                1,
+                                1,
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                2,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                3,
+                                0,
+                                2,
+                                6,
+                                22
+                            ]
+                        },
+                        {
+                            "code": 203,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 9
+        },
+        {
+            "id": 3,
+            "name": "out",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 2,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                2,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                3,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 2,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                42,
+                                11,
+                                5,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                2,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 2,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 2,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                10,
+                                10,
+                                0,
+                                2,
+                                0,
+                                100
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                9,
+                                9,
+                                0,
+                                1,
+                                12
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                0,
+                                25
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                10,
+                                10,
+                                1,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "意志力鉴定:\\V[10]/\\V[9]"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 3,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 3,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                0,
+                                30
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "大失败"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 4,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 4,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 4,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 4,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "不会...出不去了吧"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "失败"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 4,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 4,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 4,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                90,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 4,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                14,
+                                0,
+                                3,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "再陪我玩一下嘛"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 2,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 25
+        },
+        {
+            "id": 4,
+            "name": "EV004",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": true,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "其实很简单的喵"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "只要进入背包,选中科研工具"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(比如你手上的纸和笔)使用就可以了"
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                8,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你是说你已经采集了一份外界的环境报告是吗?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "没想到你对科研这么热忱,我果然没有看错你喵."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "(你这小可爱,手怎么这么贱呢)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "虽然外界环境数据同样重要,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "但是我已经亲自搜集过他们了."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "让我们重置设备,再来一次好吗"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "所以就不需要麻烦你再收集一遍了."
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                2,
+                                13,
+                                4,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 322,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "缩小",
+                                0,
+                                "Actor1",
+                                0,
+                                "Actor1_1"
+                            ]
+                        },
+                        {
+                            "code": 126,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 126,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                1,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": true,
+                        "variableId": 8,
+                        "variableValid": false,
+                        "variableValue": 1
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                8,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "不错嘛喵,不过进来了就多陪我玩会吧喵"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "对了,不同环境下科研的产出是不同的,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "所以多多探索吧喵"
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 1,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "差点忘了,原始的数据是不能直接变成科研点的喵"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "而且使用过的科研工具就不能再用了喵"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫0",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "所以出来之后记得找我提交数据和重置设备喵"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                10
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 4,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 0
+        },
+        {
+            "id": 5,
+            "name": "EV005",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                600
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                14,
+                                0,
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                11,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                1,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "角色差分"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                80,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                3,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                3,
+                                3,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "当你继续往内探索时,空气中弥漫着一股独特的味道;"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "那是独属于猫猫的混合了雌性荷尔蒙和猫薄荷的淡淡咸腥气息，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "带着些许甜腻和潮湿感。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "这种气味随着你越深入，如同美酒一般而越发浓郁"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "几乎要充盈你的整个鼻腔。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "这种味道刺激着你的嗅觉神经，让你的身体不由自主地产生了"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "某些反应;你能感受到自己的心跳加速，血液流动加快，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "下体不由的抖动起来。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "四周温暖湿润的环境加剧了这种感觉，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "你的呼吸变得急促了一些。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "体内的温度比外界稍高，这种暖意让人感到舒适却又略显燥热。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "每一寸黏膜都在如同史莱姆一样轻轻蠕动，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "带来若有若无的压迫感和涩涩感。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "呜呜，这就是猫猫下体的.....味道吗，好舒服❤️"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                60,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                4,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 3,
+                            "parameters": [
+                                4,
+                                4,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "随着你在猫猫的胎内待的时间更长，那种特殊的荷尔蒙气味"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "变得愈发浓郁。你能感觉到自己的意识开始变得模糊，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "心跳加快，呼吸急促。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "周围的肉壁不断蠕动收缩,每一次变化都带来一种奇特的压力感。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种温暖潮湿的环境让你开始产生某种异样的兴奋感。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "理智告诉你应该保持冷静寻找线索，但感官的刺激却让你"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "难以集中精力。你的下体已经直立，"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "仿佛就要马上射在猫猫的肉壁上"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "在这种状态下，猫猫体内每一个细微的变化都能引发强烈的感觉。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种特殊的气息、温热的压力、湿润的空气，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "都在不断冲击着你的神经。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "好舒服❤️，猫猫身体里的气味，真的舒服呢❤️"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                40,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 3,
+                            "parameters": [
+                                0,
+                                5,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 4,
+                            "parameters": [
+                                5,
+                                5,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "现在，你的意识已经模糊,在这种状态下，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "猫猫体内的每一个细微变化都放大了数倍。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "那种特殊的荷尔蒙气息充斥着你的感官，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "让思绪变得混沌。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "周围的温热潮湿环境使得你全身发热，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "意识开始飘忽。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "感官刺激变得异常敏锐，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "每一次呼吸、每一丝空气流动都带来强烈的色欲。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "你能感觉到自己的心跳不受控制地加速，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "血液涌向大脑带来的眩晕感。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "理性思考的能力大幅下降，"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "取而代之的是对猫猫的强烈欲望。。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "在这种状态下，猫猫体内温暖清凉而又充满猫薄荷的"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "环境给你一种奇特的安全感。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "那种被柔软肉壁包裹的感觉让你不自觉地放松警惕，"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "恨不得永远被包裹，永远留在其中。"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    -255,
+                                    -255,
+                                    -255,
+                                    0
+                                ],
+                                60,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你的两眼已经模糊，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "理智早就不存在，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你的所有行为都由本能驱动。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "猫猫体内的每一个感官刺激都被放大到极致。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "那种浓厚的荷尔蒙气息已经完全占据了你的思维，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "让你无法思考其他事情。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "皮肤对温度和湿度的感知达到峰值，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你的下体早就射满了液体，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "恨不得直接成为猫猫的性奴❤️"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "性奴❤️"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "周围的肉壁每一次蠕动都带来强烈的快感电流，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "使你不由自主地想要更深地探索。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你失去了判断力，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "只剩下最基本的生理需求。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你恨不得永远待在这里，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "永远"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "永...远..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "在这种完全失去自我控制的状态下，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "你会彻底沉溺于当下的感官体验中。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "所有的顾虑、危险感知都被抛诸脑后，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "只剩下原始的冲动。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "❤️❤️❤️，想要..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 1,
+                            "parameters": [
+                                3,
+                                7,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 1,
+                            "parameters": [
+                                3,
+                                7,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "想要永远..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 1,
+                            "parameters": [
+                                3,
+                                7,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    255,
+                                    255,
+                                    255,
+                                    170
+                                ],
+                                30,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "永远与猫猫做爱...."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "雫ちゃん！1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "（偷笑）真是杂鱼呢，那么，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "就让你永远呆在这里吧，我的小宝宝❤️。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "（抚摸肚子）"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 1,
+                            "parameters": [
+                                6,
+                                6,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                60,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "最终,你还是来到了这个地方..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "这是你生命终结的地方"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "或许也是新开始的地方"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                41,
+                                20,
+                                2,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 4,
+                    "walkAnime": true
+                }
+            ],
+            "x": 3,
+            "y": 0
+        }
+    ]
 }
