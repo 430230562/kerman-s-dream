@@ -1,22 +1,4840 @@
 {
-"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"溶解声","pan":0,"pitch":100,"volume":100},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":26,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"阴道","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":5,"width":5,
-"data":[3200,3200,3200,3200,3200,3200,3200,3200,3200,3200,3228,3228,3228,3228,3228,2836,2836,2836,2836,2836,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,2816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-"events":[
-null,
-{"id":1,"name":"to womb","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":4,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":2,"characterIndex":6},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["你尝试突破子宫口"]},{"code":122,"indent":0,"parameters":[10,10,0,2,0,100]},{"code":122,"indent":0,"parameters":[10,10,1,0,15]},{"code":108,"indent":0,"parameters":["应原主要求,san大于60一定不成功"]},{"code":122,"indent":0,"parameters":[9,9,0,0,15]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["力量鉴定: \\V[010]/\\V[009]"]},{"code":111,"indent":0,"parameters":[1,10,1,9,2]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["成功"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["失败"]},{"code":122,"indent":1,"parameters":[11,11,0,0,20]},{"code":122,"indent":1,"parameters":[11,11,2,3,3,1,9]},{"code":225,"indent":1,"parameters":[5,5,120,false]},{"code":111,"indent":1,"parameters":[1,11,0,0,3]},{"code":311,"indent":2,"parameters":[0,0,1,1,11,false]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":224,"indent":1,"parameters":[[222,63,124,187],120,false]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-128,100,100,255,0,20,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-128,100,100,255,0,20,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-64,100,100,255,0,10,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-196,100,100,255,0,10,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-196,100,100,255,0,20,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-64,100,100,255,0,20,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,408,-128,100,100,255,0,10,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-264,-128,100,100,255,0,10,true]},{"code":232,"indent":1,"parameters":[1,0,0,0,456,-128,100,100,255,0,40,false]},{"code":232,"indent":1,"parameters":[2,0,0,0,-312,-128,100,100,255,0,40,true]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":3},
-{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[600]},{"code":224,"indent":0,"parameters":[[222,63,124,187],120,false]},{"code":111,"indent":0,"parameters":[1,14,0,3,4]},{"code":122,"indent":1,"parameters":[11,11,0,0,40]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":122,"indent":1,"parameters":[11,11,0,0,50]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[11,11,2,3,3,1,9]},{"code":122,"indent":0,"parameters":[11,11,2,3,3,1,9]},{"code":111,"indent":0,"parameters":[1,11,0,0,3]},{"code":122,"indent":1,"parameters":[12,12,2,1,11]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["角色差分"]},{"code":111,"indent":0,"parameters":[1,12,0,80,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[0,3,0]},{"code":121,"indent":2,"parameters":[3,3,1]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["当你在莉卵的体内探索时，包裹着你的身体的，"]},{"code":401,"indent":2,"parameters":["只有那像是有自我意识一般的、层层叠叠的软肉。"]},{"code":401,"indent":2,"parameters":[""]},{"code":401,"indent":2,"parameters":[""]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["你蜷缩着膝盖，脊背紧紧贴着一面弧形的肉壁，"]},{"code":401,"indent":2,"parameters":["那并不是静止的墙壁，它在轻微地颤动，"]},{"code":401,"indent":2,"parameters":["伴随着上方那些重型脏器的运作，"]},{"code":401,"indent":2,"parameters":["不断把一股股温暖的波浪传导给你。"]},{"code":249,"indent":2,"parameters":[{"name":"se_heartbeat","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["“咚——咚——咚——”"]},{"code":249,"indent":2,"parameters":[{"name":"se_heartbeat","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["这个声音太大了。那不再是隔着皮肤听到的心跳，"]},{"code":401,"indent":2,"parameters":["而像是你就坐在一口被狠狠敲击的大钟里面。"]},{"code":401,"indent":2,"parameters":[""]},{"code":401,"indent":2,"parameters":[""]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["莉卵每一次心脏的搏动，这片空间里的羊红色液体就会"]},{"code":401,"indent":2,"parameters":["微微震颤一下，带着你小小的身体一起共振。"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["你的鼻子，只能吸入那种浓稠的、混合着甜腥味的气溶胶。"]},{"code":401,"indent":2,"parameters":["那种味道很复杂，有类似熟透水蜜桃般的甜香，"]},{"code":401,"indent":2,"parameters":["又混杂着海水的咸腥，甚至还有一丝荷花般的蜜香味。"]},{"code":401,"indent":2,"parameters":[""]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["每一次小心翼翼的呼吸，都像是把这种味道直接吞进了肺里，"]},{"code":401,"indent":2,"parameters":["让你的理智越发昏沉。"]},{"code":401,"indent":2,"parameters":["包裹着你的，只有那像是有自我意识一般的、层层叠叠的软肉。"]},{"code":401,"indent":2,"parameters":[""]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["颤抖的你蜷缩着膝盖，脊背紧紧贴着一面弧形的肉壁，"]},{"code":401,"indent":2,"parameters":["那并不是静止的墙壁，它在轻微地颤动，"]},{"code":401,"indent":2,"parameters":["伴随着上方那些重型脏器的运作，"]},{"code":401,"indent":2,"parameters":["不断把一股股温暖的波浪传导给你。"]},{"code":101,"indent":2,"parameters":["Actor1",0,0,2]},{"code":401,"indent":2,"parameters":["呜呜~~~，莉卵妹妹的下体，好香，好香......"]},{"code":101,"indent":2,"parameters":["莉莉艾",0,0,2]},{"code":401,"indent":2,"parameters":["肯定香啊,这可是我长年累月用草药调养的身体呢，"]},{"code":401,"indent":2,"parameters":["专门让你们这些小人感到快感的呀！"]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["你感觉她的话里似乎隐藏了什么不可告人的秘密..."]},{"code":401,"indent":2,"parameters":["不过是什么呢?"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,12,0,60,1]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[0,4,0]},{"code":121,"indent":3,"parameters":[4,4,1]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["理智这种东西，在这里就像是被扔进开水里的方糖，"]},{"code":401,"indent":3,"parameters":["正在迅速地崩解、融化。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你试图想起自己刚才为什么要挣扎,甚至试图想起外面的世界。"]},{"code":401,"indent":3,"parameters":["但是,只要你哪怕动那么一下脑筋，"]},{"code":401,"indent":3,"parameters":["周围那些不知疲倦的肉壁就会更热情地挤压过来。"]},{"code":249,"indent":3,"parameters":[{"name":"se_heartbeat","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["“咚--咚——咚—”"]},{"code":249,"indent":3,"parameters":[{"name":"se_heartbeat","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["那声音变得更沉重了，而且节奏似乎变得有点不一样。"]},{"code":401,"indent":3,"parameters":["不……那是莉卵的心跳声和你自己的心跳声混在了一起。"]},{"code":401,"indent":3,"parameters":["这里太热了，缺氧的感觉让你开始耳鸣，"]},{"code":401,"indent":3,"parameters":["那种持续不断的高温蒸汽把你的意识蒸得软趴趴的。"]},{"code":249,"indent":3,"parameters":[{"name":"se_squishy4","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["滋……滋溜……"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你感觉到有什么东西改变了。"]},{"code":401,"indent":3,"parameters":[""]},{"code":401,"indent":3,"parameters":[""]},{"code":401,"indent":3,"parameters":[""]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你头顶那个一直紧紧闭着的硬环——那个名为子宫颈口的肉圈，"]},{"code":401,"indent":3,"parameters":["就像是一个终于被舔化了的甜甜圈，"]},{"code":401,"indent":3,"parameters":["原本那种带着韧性的紧绷感正在迅速消失"]},{"code":236,"indent":3,"parameters":["rain",9,30,false]},{"code":121,"indent":3,"parameters":[16,16,0]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["那里开始流水。不，不是水。"]},{"code":401,"indent":3,"parameters":["这一次涌出来的液体浓稠得像是某种半凝固的果冻。"]},{"code":401,"indent":3,"parameters":["它没有任何预兆地“哗啦”一下倾泻下来，"]},{"code":401,"indent":3,"parameters":["那种滚烫的热度烫得你浑身一哆嗦。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["如果说之前的爱液只是像蜂蜜,那现在的这些东西就像是融化的"]},{"code":401,"indent":3,"parameters":["热蜡。带着那种特殊的只有在哺乳期才会有的极其浓郁的"]},{"code":401,"indent":3,"parameters":["乳香味和生肉的腥甜味，瞬间就把你小小的脑袋整个糊住了。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你的头发被这些液体黏在了一起，变得滑腻无比。"]},{"code":401,"indent":3,"parameters":["那些浓液顺着你的眼角流进眼睛里，带来一阵微辣的刺激感，"]},{"code":401,"indent":3,"parameters":["你本能地闭紧了双眼。"]},{"code":401,"indent":3,"parameters":["现在，你什么都看不见了,你的整个世界，就只剩下触觉。"]},{"code":223,"indent":3,"parameters":[[-255,-255,-255,0],60,false]},{"code":236,"indent":3,"parameters":["none",5,30,false]},{"code":101,"indent":3,"parameters":["莉莉艾",1,0,2]},{"code":401,"indent":3,"parameters":["啊❤️~啊❤️~终于......来了呢...~"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["随着她那声呢喃,你感觉头顶上方的那片肉壁不再是那种平整的"]},{"code":401,"indent":3,"parameters":["弧面。那个本来只能塞进指尖的小孔,正在那种液体的"]},{"code":401,"indent":3,"parameters":["大量润滑下，缓缓地、像花苞绽放一样向四周扩开。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["那里面不再是那种紧致的压迫感，"]},{"code":401,"indent":3,"parameters":["而是一种极其可怕的、仿佛能把灵魂都抽走的真空吸力。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\{\\{“咕嘟……啵……”"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["这个声音听得太清楚了。就在你天灵盖上方不到一毫米的地方。"]},{"code":401,"indent":3,"parameters":["就像是一个拔掉软木塞的香槟瓶子。"]},{"code":401,"indent":3,"parameters":["那个小小的肉圈完全张开了。"]},{"code":401,"indent":3,"parameters":[""]},{"code":205,"indent":3,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":true,"skippable":true,"wait":false}]},{"code":505,"indent":3,"parameters":[{"code":4,"indent":null}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["更里面、那个莉卵的子宫里面的热气，并没有向外喷涌，"]},{"code":401,"indent":3,"parameters":["反而在那个真空低压的作用下，"]},{"code":401,"indent":3,"parameters":["产生了一个极其微弱却不容拒绝的气旋。"]},{"code":401,"indent":3,"parameters":[""]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你的头发丝、你额头上的皮肤，"]},{"code":401,"indent":3,"parameters":["甚至是你的呼吸，都被那个刚刚打开的'黑洞'往里吸。"]},{"code":101,"indent":3,"parameters":["莉莉艾",1,0,2]},{"code":401,"indent":3,"parameters":["好舒服~~好舒服❤️"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["莉卵似乎感觉到了你在那种吸力面前那最后一点本能的瑟缩。"]},{"code":401,"indent":3,"parameters":["她原本按在小腹上的手掌稍微变换了一下姿势。"]},{"code":401,"indent":3,"parameters":["不再是那种垂直向下的死按，"]},{"code":401,"indent":3,"parameters":["而是变成了从耻骨向上的一种极其温柔的提拉和揉搓。"]},{"code":250,"indent":3,"parameters":[{"name":"挤压","volume":100,"pitch":80,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\{\\{“咕滋——”"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["外面那股恰到好处的揉按力道，配合着下面大腿根部"]},{"code":401,"indent":3,"parameters":["那种死也不肯松开的紧逼，你的身体就像是"]},{"code":401,"indent":3,"parameters":["一颗已经被剥好了皮的葡萄，根本没有任何选择余地，"]},{"code":401,"indent":3,"parameters":["被“咕嘟”一下往上挤了一截。"]},{"code":235,"indent":3,"parameters":[1]},{"code":235,"indent":3,"parameters":[2]},{"code":231,"indent":3,"parameters":[3,"子宫口2",1,0,408,312,110,110,255,0]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你的头顶瞬间撞进了那个最深层的肉环里。"]},{"code":401,"indent":3,"parameters":["那种触感完全不一样了。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["那不再是阴道壁那种带着细密肉褶的粗糙感。"]},{"code":401,"indent":3,"parameters":["这里——在这道刚刚跨越的门槛里，是一片光滑得可怕、"]},{"code":401,"indent":3,"parameters":["又娇嫩得可怕的黏膜组织。"]},{"code":401,"indent":3,"parameters":[""]},{"code":232,"indent":3,"parameters":[3,0,1,0,408,312,275,275,255,0,60,true]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你的脸颊贴在上面，简直滑得挂不住一丝皮肤。"]},{"code":401,"indent":3,"parameters":["那个圆圆的肉环并没有因为你的侵入而撑裂，"]},{"code":401,"indent":3,"parameters":["它有着难以置信的延展性，就像是一根加热过的橡胶圈，"]},{"code":401,"indent":3,"parameters":["极其紧密地箍在你的额头上一圈。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["这种紧箍感……意外地不让人讨厌。"]},{"code":401,"indent":3,"parameters":["甚至……有点像小时候被谁紧紧抱在怀里一样的安心。"]},{"code":101,"indent":3,"parameters":["莉莉艾",1,0,2]},{"code":401,"indent":3,"parameters":["啊……嗯！头……宝宝的头进来了……"]},{"code":225,"indent":3,"parameters":[3,5,60,true]},{"code":101,"indent":3,"parameters":["莉莉艾",1,0,2]},{"code":401,"indent":3,"parameters":["\\{啊~~~"]},{"code":225,"indent":3,"parameters":[7,5,60,true]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["莉卵突然发出了一声带着哭腔的高亢呻吟。"]},{"code":401,"indent":3,"parameters":["这声音顺着那根连接着你们的肉体通道直接震得你脑仁发麻。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["她的身体因为这一瞬间的巨大满足感而产生了一阵波浪式的痉挛。"]},{"code":401,"indent":3,"parameters":["那个正卡在你额头上的肉环也不受控制地狠狠收缩了一下。"]},{"code":232,"indent":3,"parameters":[3,0,1,0,408,312,275,275,255,0,60,false]},{"code":232,"indent":3,"parameters":[3,0,1,0,408,312,275,275,255,0,60,false]},{"code":101,"indent":3,"parameters":["Actor1",0,0,2]},{"code":401,"indent":3,"parameters":["唔——！"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你被那一下勒得差点叫出声来。但你没法叫，"]},{"code":401,"indent":3,"parameters":["因为你的嘴巴刚稍微张开一点想要吸气，"]},{"code":401,"indent":3,"parameters":["一大股那种带着浓郁甜腥味的粘液就毫不客气地灌了进来。"]},{"code":401,"indent":3,"parameters":[""]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["那种味道冲得你喉咙一阵发痒，但并没有让你感到恶心，"]},{"code":401,"indent":3,"parameters":["反而............"]},{"code":401,"indent":3,"parameters":[""]},{"code":401,"indent":3,"parameters":[""]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["让你那个因为缺氧而一直昏昏沉沉的大脑产生了一种更加强烈的、"]},{"code":401,"indent":3,"parameters":["仿佛回到了原点一样的诡异安宁。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["在这个只有黑暗、高温、紧压和肉香的世界里,思考真的太累了。"]},{"code":401,"indent":3,"parameters":["你的手无意识地抓住了那个肉环的边缘，"]},{"code":401,"indent":3,"parameters":["那柔软Q弹的手感让你的手指稍微用了一点力。"]},{"code":232,"indent":3,"parameters":[3,0,1,0,408,312,325,325,255,0,60,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["在你自己那个已经不想再思考的身体本能驱动下，"]},{"code":401,"indent":3,"parameters":["你的肩膀稍微向内侧缩了一下。"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\{\\{“哧溜——”"]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["配合着那股来自深渊的吸力和外面肌肉的一致推挤，"]},{"code":401,"indent":3,"parameters":["你的整个头部极其丝滑地“啵”地一声，"]},{"code":401,"indent":3,"parameters":["完全滑过了那道肉做的窄门。"]},{"code":241,"indent":3,"parameters":[{"name":"蠕动","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["你的耳朵也被那个肉环裹住了。"]},{"code":401,"indent":3,"parameters":["外面莉卵的呻吟声也被那层厚厚的肉壁彻底隔绝了。"]},{"code":401,"indent":3,"parameters":["你现在只能听到一种单调的、巨大的、如同潮汐般的血流声。"]},{"code":249,"indent":3,"parameters":[{"name":"se_gulp4","volume":90,"pitch":100,"pan":0}]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["\\{\\{“咕噜”"]},{"code":232,"indent":3,"parameters":[3,0,1,0,408,312,500,500,255,0,60,false]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["最后，你的身体完全的进入了子宫里，"]},{"code":401,"indent":3,"parameters":["而你身后的子宫口立刻紧闭，再也打不开。你已经没有退路了。"]},{"code":108,"indent":3,"parameters":["特殊需求"]},{"code":121,"indent":3,"parameters":[4,4,0]},{"code":121,"indent":3,"parameters":[2,2,1]},{"code":235,"indent":3,"parameters":[3]},{"code":122,"indent":3,"parameters":[1,1,0,0,0]},{"code":201,"indent":3,"parameters":[0,51,14,12,0,0]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":4,"y":0},
-{"id":3,"name":"out","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":2,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":111,"indent":0,"parameters":[0,3,0]},{"code":118,"indent":1,"parameters":["成功"]},{"code":201,"indent":1,"parameters":[0,4,10,4,0,0]},{"code":122,"indent":1,"parameters":[1,1,0,0,0]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":322,"indent":1,"parameters":[1,"缩小",0,"Actor1",0,"Actor1_1"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":122,"indent":1,"parameters":[10,10,0,2,0,100]},{"code":122,"indent":1,"parameters":[9,9,0,1,12]},{"code":122,"indent":1,"parameters":[9,9,1,0,25]},{"code":122,"indent":1,"parameters":[10,10,1,3,3,1,9]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["意志力鉴定:\\V[10]/\\V[9]"]},{"code":111,"indent":1,"parameters":[1,10,1,9,2]},{"code":101,"indent":2,"parameters":["",0,0,2]},{"code":401,"indent":2,"parameters":["成功"]},{"code":119,"indent":2,"parameters":["成功"]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":122,"indent":2,"parameters":[9,9,1,0,30]},{"code":111,"indent":2,"parameters":[1,10,1,9,3]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["大失败"]},{"code":205,"indent":3,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":3,"parameters":[{"code":4,"indent":null}]},{"code":224,"indent":3,"parameters":[[222,63,124,187],120,false]},{"code":122,"indent":3,"parameters":[12,12,2,0,7]},{"code":101,"indent":3,"parameters":["Actor1",0,0,2]},{"code":401,"indent":3,"parameters":["不会...出不去了吧"]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":101,"indent":3,"parameters":["",0,0,2]},{"code":401,"indent":3,"parameters":["失败"]},{"code":205,"indent":3,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":3,"parameters":[{"code":4,"indent":null}]},{"code":224,"indent":3,"parameters":[[222,63,124,187],90,false]},{"code":122,"indent":3,"parameters":[12,12,2,0,4]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":2,"y":25},
-{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["这里的氛围很奇怪,"]},{"code":401,"indent":0,"parameters":["按理说,莉莉艾作为幼女,阴道不可能这么宽敞"]},{"code":101,"indent":0,"parameters":["Actor1",0,0,2]},{"code":401,"indent":0,"parameters":["我感觉有些不妙"]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":4,"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":4,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["随着你进一步深入,你发现软肉上明显有被开发的痕迹"]},{"code":101,"indent":0,"parameters":["Actor1",0,0,2]},{"code":401,"indent":0,"parameters":["这里的空气感觉异常的甜,"]},{"code":401,"indent":0,"parameters":["催情成分可能远高于正常水平"]},{"code":101,"indent":0,"parameters":["Actor1",0,0,2]},{"code":401,"indent":0,"parameters":["没有充分的防护的话,还是不要深入探索了"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["提升:使用药水或防毒面具来提升催情抗性"]},{"code":401,"indent":0,"parameters":["否则......你懂的"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":24},
-{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":4},
-{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":4},
-{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":0,"y":6},
-{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":7},
-{"id":9,"name":"EV009","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":3,"y":10},
-{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":1,"y":12},
-{"id":11,"name":"EV011","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":8},
-{"id":12,"name":"EV012","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":2,"y":14},
-{"id":13,"name":"EV013","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":12},
-{"id":14,"name":"EV014","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":0,"y":10},
-{"id":15,"name":"EV015","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":16,"switch2Valid":true,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":82,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":4,"y":7}
-]
+    "autoplayBgm": true,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "溶解声",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 26,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "!阴道",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 5,
+    "width": 5,
+    "data": [
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3200,
+        3228,
+        3228,
+        3228,
+        3228,
+        3228,
+        2836,
+        2836,
+        2836,
+        2836,
+        2836,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        2816,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "to womb",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 4,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 4
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "!Flame",
+                        "direction": 8,
+                        "pattern": 2,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "你尝试突破子宫口"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                10,
+                                10,
+                                0,
+                                2,
+                                0,
+                                100
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                10,
+                                10,
+                                1,
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "应原主要求,san大于60一定不成功"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                9,
+                                9,
+                                0,
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "力量鉴定: \\V[010]/\\V[009]"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "失败"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 1,
+                            "parameters": [
+                                5,
+                                5,
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                11,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 311,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                0,
+                                1,
+                                1,
+                                11,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 224,
+                            "indent": 1,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -196,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -64,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                408,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -264,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                10,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                456,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 1,
+                            "parameters": [
+                                2,
+                                0,
+                                0,
+                                0,
+                                -312,
+                                -128,
+                                100,
+                                100,
+                                255,
+                                0,
+                                40,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 3
+        },
+        {
+            "id": 2,
+            "name": "EV002",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                600
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                14,
+                                0,
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                40
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                11,
+                                11,
+                                0,
+                                0,
+                                50
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                11,
+                                11,
+                                2,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                11,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                1,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 108,
+                            "indent": 0,
+                            "parameters": [
+                                "角色差分"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                80,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                3,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 2,
+                            "parameters": [
+                                3,
+                                3,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "当你在莉卵的体内探索时，包裹着你的身体的，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "只有那像是有自我意识一般的、层层叠叠的软肉。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "你蜷缩着膝盖，脊背紧紧贴着一面弧形的肉壁，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "那并不是静止的墙壁，它在轻微地颤动，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "伴随着上方那些重型脏器的运作，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "不断把一股股温暖的波浪传导给你。"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "se_heartbeat",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "“咚——咚——咚——”"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 2,
+                            "parameters": [
+                                {
+                                    "name": "se_heartbeat",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "这个声音太大了。那不再是隔着皮肤听到的心跳，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "而像是你就坐在一口被狠狠敲击的大钟里面。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "莉卵每一次心脏的搏动，这片空间里的羊红色液体就会"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "微微震颤一下，带着你小小的身体一起共振。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "你的鼻子，只能吸入那种浓稠的、混合着甜腥味的气溶胶。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "那种味道很复杂，有类似熟透水蜜桃般的甜香，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "又混杂着海水的咸腥，甚至还有一丝荷花般的蜜香味。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "每一次小心翼翼的呼吸，都像是把这种味道直接吞进了肺里，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "让你的理智越发昏沉。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "包裹着你的，只有那像是有自我意识一般的、层层叠叠的软肉。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "颤抖的你蜷缩着膝盖，脊背紧紧贴着一面弧形的肉壁，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "那并不是静止的墙壁，它在轻微地颤动，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "伴随着上方那些重型脏器的运作，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "不断把一股股温暖的波浪传导给你。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "呜呜~~~，莉卵妹妹的下体，好香，好香......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "莉莉艾",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "肯定香啊,这可是我长年累月用草药调养的身体呢，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "专门让你们这些小人感到快感的呀！"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "你感觉她的话里似乎隐藏了什么不可告人的秘密..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "不过是什么呢?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                12,
+                                0,
+                                60,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                0,
+                                4,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 3,
+                            "parameters": [
+                                4,
+                                4,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "理智这种东西，在这里就像是被扔进开水里的方糖，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "正在迅速地崩解、融化。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你试图想起自己刚才为什么要挣扎,甚至试图想起外面的世界。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "但是,只要你哪怕动那么一下脑筋，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "周围那些不知疲倦的肉壁就会更热情地挤压过来。"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "se_heartbeat",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "“咚--咚——咚—”"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "se_heartbeat",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那声音变得更沉重了，而且节奏似乎变得有点不一样。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "不……那是莉卵的心跳声和你自己的心跳声混在了一起。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这里太热了，缺氧的感觉让你开始耳鸣，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种持续不断的高温蒸汽把你的意识蒸得软趴趴的。"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "se_squishy4",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "滋……滋溜……"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你感觉到有什么东西改变了。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你头顶那个一直紧紧闭着的硬环——那个名为子宫颈口的肉圈，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "就像是一个终于被舔化了的甜甜圈，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "原本那种带着韧性的紧绷感正在迅速消失"
+                            ]
+                        },
+                        {
+                            "code": 236,
+                            "indent": 3,
+                            "parameters": [
+                                "rain",
+                                9,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 3,
+                            "parameters": [
+                                16,
+                                16,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那里开始流水。不，不是水。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这一次涌出来的液体浓稠得像是某种半凝固的果冻。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "它没有任何预兆地“哗啦”一下倾泻下来，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种滚烫的热度烫得你浑身一哆嗦。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "如果说之前的爱液只是像蜂蜜,那现在的这些东西就像是融化的"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "热蜡。带着那种特殊的只有在哺乳期才会有的极其浓郁的"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "乳香味和生肉的腥甜味，瞬间就把你小小的脑袋整个糊住了。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的头发被这些液体黏在了一起，变得滑腻无比。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那些浓液顺着你的眼角流进眼睛里，带来一阵微辣的刺激感，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你本能地闭紧了双眼。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "现在，你什么都看不见了,你的整个世界，就只剩下触觉。"
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 3,
+                            "parameters": [
+                                [
+                                    -255,
+                                    -255,
+                                    -255,
+                                    0
+                                ],
+                                60,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 236,
+                            "indent": 3,
+                            "parameters": [
+                                "none",
+                                5,
+                                30,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "莉莉艾",
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "啊❤️~啊❤️~终于......来了呢...~"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "随着她那声呢喃,你感觉头顶上方的那片肉壁不再是那种平整的"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "弧面。那个本来只能塞进指尖的小孔,正在那种液体的"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "大量润滑下，缓缓地、像花苞绽放一样向四周扩开。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那里面不再是那种紧致的压迫感，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "而是一种极其可怕的、仿佛能把灵魂都抽走的真空吸力。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{\\{“咕嘟……啵……”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这个声音听得太清楚了。就在你天灵盖上方不到一毫米的地方。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "就像是一个拔掉软木塞的香槟瓶子。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那个小小的肉圈完全张开了。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 3,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": true,
+                                    "skippable": true,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "更里面、那个莉卵的子宫里面的热气，并没有向外喷涌，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "反而在那个真空低压的作用下，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "产生了一个极其微弱却不容拒绝的气旋。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的头发丝、你额头上的皮肤，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "甚至是你的呼吸，都被那个刚刚打开的'黑洞'往里吸。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "莉莉艾",
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "好舒服~~好舒服❤️"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "莉卵似乎感觉到了你在那种吸力面前那最后一点本能的瑟缩。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "她原本按在小腹上的手掌稍微变换了一下姿势。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "不再是那种垂直向下的死按，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "而是变成了从耻骨向上的一种极其温柔的提拉和揉搓。"
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "挤压",
+                                    "volume": 100,
+                                    "pitch": 80,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{\\{“咕滋——”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "外面那股恰到好处的揉按力道，配合着下面大腿根部"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种死也不肯松开的紧逼，你的身体就像是"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "一颗已经被剥好了皮的葡萄，根本没有任何选择余地，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "被“咕嘟”一下往上挤了一截。"
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 3,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 3,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                "子宫口2",
+                                1,
+                                0,
+                                408,
+                                312,
+                                110,
+                                110,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的头顶瞬间撞进了那个最深层的肉环里。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种触感完全不一样了。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那不再是阴道壁那种带着细密肉褶的粗糙感。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这里——在这道刚刚跨越的门槛里，是一片光滑得可怕、"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "又娇嫩得可怕的黏膜组织。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                408,
+                                312,
+                                275,
+                                275,
+                                255,
+                                0,
+                                60,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的脸颊贴在上面，简直滑得挂不住一丝皮肤。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那个圆圆的肉环并没有因为你的侵入而撑裂，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "它有着难以置信的延展性，就像是一根加热过的橡胶圈，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "极其紧密地箍在你的额头上一圈。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这种紧箍感……意外地不让人讨厌。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "甚至……有点像小时候被谁紧紧抱在怀里一样的安心。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "莉莉艾",
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "啊……嗯！头……宝宝的头进来了……"
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                5,
+                                60,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "莉莉艾",
+                                1,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{啊~~~"
+                            ]
+                        },
+                        {
+                            "code": 225,
+                            "indent": 3,
+                            "parameters": [
+                                7,
+                                5,
+                                60,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "莉卵突然发出了一声带着哭腔的高亢呻吟。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "这声音顺着那根连接着你们的肉体通道直接震得你脑仁发麻。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "她的身体因为这一瞬间的巨大满足感而产生了一阵波浪式的痉挛。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那个正卡在你额头上的肉环也不受控制地狠狠收缩了一下。"
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                408,
+                                312,
+                                275,
+                                275,
+                                255,
+                                0,
+                                60,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                408,
+                                312,
+                                275,
+                                275,
+                                255,
+                                0,
+                                60,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "唔——！"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你被那一下勒得差点叫出声来。但你没法叫，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "因为你的嘴巴刚稍微张开一点想要吸气，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "一大股那种带着浓郁甜腥味的粘液就毫不客气地灌了进来。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那种味道冲得你喉咙一阵发痒，但并没有让你感到恶心，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "反而............"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "让你那个因为缺氧而一直昏昏沉沉的大脑产生了一种更加强烈的、"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "仿佛回到了原点一样的诡异安宁。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "在这个只有黑暗、高温、紧压和肉香的世界里,思考真的太累了。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的手无意识地抓住了那个肉环的边缘，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "那柔软Q弹的手感让你的手指稍微用了一点力。"
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                408,
+                                312,
+                                325,
+                                325,
+                                255,
+                                0,
+                                60,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "在你自己那个已经不想再思考的身体本能驱动下，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的肩膀稍微向内侧缩了一下。"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{\\{“哧溜——”"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "配合着那股来自深渊的吸力和外面肌肉的一致推挤，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的整个头部极其丝滑地“啵”地一声，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "完全滑过了那道肉做的窄门。"
+                            ]
+                        },
+                        {
+                            "code": 241,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "蠕动",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你的耳朵也被那个肉环裹住了。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "外面莉卵的呻吟声也被那层厚厚的肉壁彻底隔绝了。"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "你现在只能听到一种单调的、巨大的、如同潮汐般的血流声。"
+                            ]
+                        },
+                        {
+                            "code": 249,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "name": "se_gulp4",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\{\\{“咕噜”"
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 3,
+                            "parameters": [
+                                3,
+                                0,
+                                1,
+                                0,
+                                408,
+                                312,
+                                500,
+                                500,
+                                255,
+                                0,
+                                60,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "最后，你的身体完全的进入了子宫里，"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "而你身后的子宫口立刻紧闭，再也打不开。你已经没有退路了。"
+                            ]
+                        },
+                        {
+                            "code": 108,
+                            "indent": 3,
+                            "parameters": [
+                                "特殊需求"
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 3,
+                            "parameters": [
+                                4,
+                                4,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 3,
+                            "parameters": [
+                                2,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 3,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 3,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 3,
+                            "parameters": [
+                                0,
+                                61,
+                                14,
+                                12,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 4,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 0
+        },
+        {
+            "id": 3,
+            "name": "out",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 2,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                3,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 118,
+                            "indent": 1,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 1,
+                            "parameters": [
+                                0,
+                                4,
+                                10,
+                                4,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 1,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 322,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                "缩小",
+                                0,
+                                "Actor1",
+                                0,
+                                "Actor1_1"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                10,
+                                10,
+                                0,
+                                2,
+                                0,
+                                100
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                9,
+                                9,
+                                0,
+                                1,
+                                12
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                0,
+                                25
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 1,
+                            "parameters": [
+                                10,
+                                10,
+                                1,
+                                3,
+                                3,
+                                1,
+                                9
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "意志力鉴定:\\V[10]/\\V[9]"
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 1,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 119,
+                            "indent": 2,
+                            "parameters": [
+                                "成功"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 122,
+                            "indent": 2,
+                            "parameters": [
+                                9,
+                                9,
+                                1,
+                                0,
+                                30
+                            ]
+                        },
+                        {
+                            "code": 111,
+                            "indent": 2,
+                            "parameters": [
+                                1,
+                                10,
+                                1,
+                                9,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "大失败"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 3,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 3,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                120,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 3,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "不会...出不去了吧"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 411,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "失败"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 3,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 3,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 224,
+                            "indent": 3,
+                            "parameters": [
+                                [
+                                    222,
+                                    63,
+                                    124,
+                                    187
+                                ],
+                                90,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 3,
+                            "parameters": [
+                                12,
+                                12,
+                                2,
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 1,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 25
+        },
+        {
+            "id": 4,
+            "name": "EV004",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "这里的氛围很奇怪,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "按理说,莉莉艾作为幼女,阴道不可能这么宽敞"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "我感觉有些不妙"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 4,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 4,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "随着你进一步深入,你发现软肉上明显有被开发的痕迹"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "这里的空气感觉异常的甜,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "催情成分可能远高于正常水平"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor1",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "没有充分的防护的话,还是不要深入探索了"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "提升:使用药水或防毒面具来提升催情抗性"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "否则......你懂的"
+                            ]
+                        },
+                        {
+                            "code": 123,
+                            "indent": 0,
+                            "parameters": [
+                                "A",
+                                0
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 2,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": true,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 24
+        },
+        {
+            "id": 5,
+            "name": "EV005",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 1,
+            "y": 4
+        },
+        {
+            "id": 6,
+            "name": "EV006",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 4
+        },
+        {
+            "id": 7,
+            "name": "EV007",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 6
+        },
+        {
+            "id": 8,
+            "name": "EV008",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 1,
+            "y": 7
+        },
+        {
+            "id": 9,
+            "name": "EV009",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 3,
+            "y": 10
+        },
+        {
+            "id": 10,
+            "name": "EV010",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 1,
+            "y": 12
+        },
+        {
+            "id": 11,
+            "name": "EV011",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 8
+        },
+        {
+            "id": 12,
+            "name": "EV012",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 2,
+            "y": 14
+        },
+        {
+            "id": 13,
+            "name": "EV013",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 12
+        },
+        {
+            "id": 14,
+            "name": "EV014",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 0,
+            "y": 10
+        },
+        {
+            "id": 15,
+            "name": "EV015",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 16,
+                        "switch2Valid": true,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 82,
+                        "characterName": "",
+                        "characterIndex": 0,
+                        "direction": 2,
+                        "pattern": 0
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 4,
+            "y": 7
+        }
+    ]
 }

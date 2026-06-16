@@ -23,7 +23,7 @@
     "note": "",
     "parallaxLoopX": false,
     "parallaxLoopY": false,
-    "parallaxName": "子宫",
+    "parallaxName": "!子宫",
     "parallaxShow": true,
     "parallaxSx": 0,
     "parallaxSy": 0,
@@ -3147,7 +3147,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "软肉右2",
+                                "软肉右",
                                 0,
                                 0,
                                 456,
@@ -3163,7 +3163,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "软肉左2",
+                                "软肉左",
                                 0,
                                 0,
                                 -312,
